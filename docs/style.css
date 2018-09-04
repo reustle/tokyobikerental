@@ -1,5 +1,5 @@
 body {
-    font-family: "Menlo", "Courier New", monospace, sans-serif;
+    font-family: "Open Sans", sans-serif;
     line-height: 1.5rem;
     margin: 40px 0px;
 }
@@ -11,6 +11,9 @@ a {
 }
 a:hover {
     background: #f00;
+}
+h1, h2, h3 {
+    font-family: "Ubuntu Mono", monospace, sans-serif;
 }
 header h1 {
     text-decoration: underline;
