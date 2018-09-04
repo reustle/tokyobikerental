@@ -49,3 +49,11 @@ footer {
     }
 }
 
+@media screen and (max-width: 360px) {
+    h1 {
+        font-size: 1.6em;
+    }
+    h2 {
+        font-size: 1.3em;
+    }
+}

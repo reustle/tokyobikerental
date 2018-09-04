@@ -39,5 +39,11 @@ footer {
   header, section, footer {
     margin: 0px 20px 20px 20px;
     width: auto; } }
+@media screen and (max-width: 360px) {
+  h1 {
+    font-size: 1.6em; }
+
+  h2 {
+    font-size: 1.3em; } }
 
 /*# sourceMappingURL=style.css.map */
