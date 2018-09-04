@@ -20,12 +20,9 @@ header, section {
     width: 800px;
 }
 @media screen and (max-width: 840px) {
-    body {
-        line-height: 2.5rem;
-    }
     header, section {
         margin: 0px 20px 20px 20px;
-        width: 100%;
+        width: auto;
     }
 }
 
