@@ -15,3 +15,10 @@ jekyll serve --watch
 
 If you would like to make a suggestion for this website, please email [shane@reustle.co](mailto:shane@reustle.co). If you know how to use GitHub, please submit a pull request.
 
+
+## Tasks
+
+- Homepage Adjust to 2 columns on desktop
+- Homepage: Prices
+- Sub-pages
+
