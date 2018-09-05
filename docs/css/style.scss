@@ -6,15 +6,17 @@ body {
     font-family: "Open Sans", sans-serif;
     line-height: 1.5rem;
     margin: 40px 0px;
+    color: #fff;
+    background: #111;
 }
 a {
-    background: #ea6969;
+    background: #bf4848;
     padding: 0px 2px;
     text-decoration: none;
     color: #fff;
     
     &:hover {
-        background: #bf4848;
+        background: #ea6969;
     }
 }
 h1, h2, h3 {
