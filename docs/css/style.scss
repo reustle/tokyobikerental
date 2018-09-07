@@ -41,7 +41,7 @@ header h1 {
 }
 header, section, footer {
     margin: 0px auto 40px auto;
-    width: 800px;
+    width: 600px;
 }
 footer {
     font-family: "Ubuntu Mono", monospace, sans-serif;
@@ -62,7 +62,7 @@ footer {
 }
 
 // Mobile
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 640px) {
     body {
         margin-top: 20px;
     }
