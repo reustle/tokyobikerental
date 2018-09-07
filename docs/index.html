@@ -7,6 +7,13 @@ layout: base
 </section>
 
 <section>
+    <h2>Rental Map</h2>
+    <div id="rental-map-container"></div>
+    
+    <em>Legend Here</em>
+</section>
+
+<section>
     <h2>Bike Share Programs</h2>
     <ul>
         <li>
@@ -106,10 +113,75 @@ layout: base
     </ul>
 </section>
 
-<section>
-    <h2>Rental Map</h2>
-    <div id="rental-map-container">
-        <img src="/img/sample-map-many.png" width="100%" height="100%">
-    </div>
-</section>
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css" rel="stylesheet" />
+
+<script>
+
+"use strict";
+mapboxgl.accessToken = 'pk.eyJ1IjoicmV1c3RsZSIsImEiOiJjamxzNnYwYjUwYzZ0M3BubTd2ZDRtNHFwIn0.PgxCjIEJpL2svw-dIA1npw';
+
+// Init Map
+var map = new mapboxgl.Map({
+    container: 'rental-map-container',
+    style: 'mapbox://styles/mapbox/dark-v9',
+    zoom: 10,
+    minZoom: 5,
+    maxZoom: 19,
+    center: {
+        lng: 139.76534107288876,
+        lat: 35.68811339789339
+    }
+    
+});
+
+// Disable map rotation using right click + drag
+map.dragRotate.disable();
+
+// Disable map rotation using touch rotation gesture
+map.touchZoomRotate.disableRotation();
+
+/*
+// Init map
+map.on('load', function(){
+    
+    // Load json data
+    // TODO Async
+    $.getJSON("/static/rtwData.geojson", function(rtwData){
+        rtwData.features.forEach(feature => {
+            let modeProp = feature.properties.mode.toLowerCase().split(',')
+            let transportMode = modeProp[0]
+            feature.properties.color = COLORS[transportMode]
+        })
+        
+        // Add primary rtw line
+        map.addLayer({
+            id: "routePrimary",
+            type: "line",
+            
+            source: {
+                type: "geojson",
+                data: rtwData
+            },
+            
+            paint: {
+                'line-width': 2.5,
+                'line-blur': 0,
+                'line-color': {
+                    'type': 'identity',
+                    'property': 'color'
+                }
+            },
+            
+            layout: {
+                'line-join': 'round',
+                'line-cap': 'round'
+            },
+
+        })
+        
+    })
+});
+*/
+</script>
 
