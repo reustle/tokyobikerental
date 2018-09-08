@@ -1,0 +1,9 @@
+wget http://docomo-cycle.jp/chiyoda/system/data/topportnavi.json -O docomo/chiyoda.json ;
+wget http://docomo-cycle.jp/chuo/system/data/topportnavi.json -O docomo/chuo.json ;
+wget http://docomo-cycle.jp/minato/system/data/topportnavi.json -O docomo/minato.json ;
+wget http://docomo-cycle.jp/shinjuku/system/data/topportnavi.json -O docomo/shinjuku.json ;
+wget http://docomo-cycle.jp/bunkyo/system/data/topportnavi.json -O docomo/bunkyo.json ;
+wget http://docomo-cycle.jp/koto/system/data/top_portnavi.json -O docomo/koto.json ;
+wget http://docomo-cycle.jp/shinagawa/system/data/topportnavi.json -O docomo/shinagawa.json ;
+wget http://docomo-cycle.jp/ota/system/data/topportnavi.json -O docomo/ota.json ;
+wget http://docomo-cycle.jp/shibuya/system/data/topportnavi.json -O docomo/shibuya.json ;

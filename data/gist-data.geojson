@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muji Yurakucho",
+        "type": "rental",
+        "slug": "muji-yurakucho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765037,
+          35.675546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rin Project",
+        "type": "rental",
+        "slug": "rin-project"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.787168,
+          35.7107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SCycle",
+        "type": "rental",
+        "slug": "scycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725169,
+          35.691755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TokyoBike Yanaka",
+        "type": "rental",
+        "slug": "tokyobike-yanaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76819,
+          35.723573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Extremo MTB",
+        "type": "rental",
+        "slug": "extremo-mtb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.813615,
+          35.698564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katsushika Kanko",
+        "type": "rental",
+        "slug": "katsushika-kanko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8806,
+          35.756837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hirose",
+        "type": "rental",
+        "slug": "hirose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.334524,
+          35.652445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taito Ward Bike Share",
+        "type": "share",
+        "slug": "taito-ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.798454,
+          35.711013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taito Ward Bike Share",
+        "type": "share",
+        "slug": "taito-ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.783038,
+          35.706795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taito Ward Bike Share",
+        "type": "share",
+        "slug": "taito-ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776467,
+          35.707996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taito Ward Bike Share",
+        "type": "share",
+        "slug": "taito-ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.793085,
+          35.712919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688146,
+          35.667301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690988,
+          35.650219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700036,
+          35.649902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70606,
+          35.65175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714283,
+          35.647414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768722,
+          35.717331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.792339,
+          35.715303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.794227,
+          35.711544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757538,
+          35.671639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8141261,
+          35.7171295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.731318,
+          35.704996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8121753,
+          35.7010833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669051,
+          35.677429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73961,
+          35.680069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.785331,
+          35.685099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701761,
+          35.655688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702947,
+          35.662123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.410955,
+          33.591119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.759289,
+          34.993954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.80028,
+          35.6979617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.670343,
+          35.608913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.756422,
+          35.657421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773847,
+          35.670143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.784929488,
+          35.6969483437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CogiCogi",
+        "type": "share",
+        "slug": "cogicogi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.739265,
+          35.672127
+        ]
+      }
+    }
+  ]
+}

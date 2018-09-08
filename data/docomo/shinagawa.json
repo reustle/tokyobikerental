@@ -1,0 +1,281 @@
+﻿[{
+	"lat": 35.608960,
+	"lng": 139.729810,
+	"name": "I1-01.品川区役所 本庁舎前",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-01.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.608410,
+	"lng": 139.729970,
+	"name": "I1-02.品川区役所 第三庁舎前",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-02.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.605617,
+	"lng": 139.73472,
+	"name": "I1-03.大井町駅中央口（西側）",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-03.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.605150,
+	"lng": 139.734690,
+	"name": "I1-04.大井町歩道橋",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-04.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.5969172,
+	"lng": 139.729996,
+	"name": "I1-05.品川歴史館",
+	"addr1": "営業時間 9:00～17:00（月・祝日除く）",
+	"addr2": "",
+	"img": "system/data/port/I1-05.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.593489,
+	"lng": 139.72967,
+	"name": "I1-06.大森貝塚遺跡庭園",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-06.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.590641,
+	"lng": 139.736354,
+	"name": "I1-07.しながわ水族館",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-07.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.622294,
+	"lng": 139.751644,
+	"name": "I1-08.天王洲アイル第一水辺広場",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-08.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.616633,
+	"lng": 139.748945,
+	"name": "I1-09.東品川海上公園 ",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-09.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.607717,
+	"lng": 139.749478,
+	"name": "I1-10.品川シーサイド公園",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-10.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.603984,
+	"lng": 139.744504,
+	"name": "I1-11.鮫洲入江広場",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-11.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.596091,
+	"lng": 139.740884,
+	"name": "I1-12.しながわ区民公園（北側）",
+	"addr1": "営業時間 7:30～17:00",
+	"addr2": "",
+	"img": "system/data/port/I1-12.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.613421,
+	"lng": 139.753750,
+	"name": "I1-13.八潮北公園",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-13.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.604227,
+	"lng": 139.742223,
+	"name": "I1-14.ARTnSHELTER",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-14.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.609018,
+	"lng": 139.745238,
+	"name": "I1-15.セブン-イレブン 東品川4丁目店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-15.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.621400,
+	"lng": 139.741958,
+	"name": "I1-16.品川浦",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-16.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.616364,
+	"lng": 139.749171,
+	"name": "I1-17.東品川海上公園第2",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-17.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.613790,
+	"lng": 139.746617,
+	"name": "I1-18.東品川公園",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-18.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.607571,
+	"lng": 139.749108,
+	"name": "I1-19.品川シーサイド公園第2",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-19.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.596320,
+	"lng": 139.751279,
+	"name": "I1-20.しおじ公園",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-20.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.593887,
+	"lng": 139.741204,
+	"name": "I1-21.大井競馬場（正門前）",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-21.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.596579,
+	"lng": 139.745009,
+	"name": "I1-22.ウィラ大井（ショッピングモール）",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-22.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.616114,
+	"lng": 139.740330,
+	"name": "I1-23.東海橋防災船着場",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-23.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.593611,
+	"lng": 139.738056,
+	"name": "I1-24.しながわ区民公園（中央口）",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-24.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.607084,
+	"lng": 139.705007,
+	"name": "I1-25.セブン-イレブン 品川旗の台2丁目店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-25.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.617475,
+	"lng": 139.729221,
+	"name": "I1-26.大崎西口公園",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-26.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.621027,
+	"lng": 139.731179,
+	"name": "I1-27.小関橋公園",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-27.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.617365,
+	"lng": 139.706642,
+	"name": "I1-28.ローソン 品川荏原三丁目店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-28.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.599987,
+	"lng": 139.745195,
+	"name": "I1-29.ローソン 勝島一丁目店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-29.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.603327,
+	"lng": 139.729006,
+	"name": "I1-30.ローソン 大井三丁目店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-30.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.608193,
+	"lng": 139.719139,
+	"name": "I1-31.セブン-イレブン 品川戸越5丁目店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-31.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.611158,
+	"lng": 139.745740,
+	"name": "I1-32.ローソン 東品川三丁目店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-32.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.600636,
+	"lng": 139.721970,
+	"name": "I1-33.ファミリーマート 西大井光学通り店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I1-33.jpg",
+	"icon": "system/data/images/port.png"
+}, {
+	"lat": 35.60707,
+	"lng": 139.73914,
+	"name": "I2-01.サイクルショップオギヤマ　大井町店",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I2-01.jpg",
+	"icon": "system/data/images/yujin.png"
+}, {
+	"lat": 35.607687,
+	"lng": 139.731499,
+	"name": "I2-02.しなかんPLAZA",
+	"addr1": "",
+	"addr2": "",
+	"img": "system/data/port/I2-02.jpg",
+	"icon": "system/data/images/yujin.png"
+}]

@@ -59,6 +59,20 @@ footer {
         margin: 5px;
         text-align: center;
     }
+    
+    .mapboxgl-marker {
+        background: #1d96ff;
+        display: block;
+        width: 8px;
+        height: 8px;
+        cursor: pointer;
+        border-radius: 50%;
+        border: 1px solid #333;
+        
+        &.marker-share {
+            background: #bf4848;
+        }
+    }
 }
 
 // Mobile
