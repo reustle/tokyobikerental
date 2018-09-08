@@ -13,25 +13,25 @@ var map = new mapboxgl.Map({
         lat: 35.68811339789339
     }
     
-});
+})
 
 // Disable map rotation using right click + drag
-map.dragRotate.disable();
+map.dragRotate.disable()
 
 // Disable map rotation using touch rotation gesture
-map.touchZoomRotate.disableRotation();
+map.touchZoomRotate.disableRotation()
 
 // Init map
 map.on('load', function(){
     
     // Load json data
     
-    fetch('results.geojson').then(response => {
+    fetch('results.geojson').then(function(response){
         return response.json()
         
-    }).then(locations => {
+    }).then(function(locations){
         
-        locations.features.forEach(marker => {
+        locations.features.forEach(function(marker){
             let typeProp = marker.properties.type.toLowerCase()
             
             var el = document.createElement('div')
@@ -43,7 +43,7 @@ map.on('load', function(){
             
         })
         
-    }).catch(err => {
+    }).catch(function(err){
         if(err){
             console.log(err)
             console.log('json error')
