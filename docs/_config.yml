@@ -1,2 +1,5 @@
 sass:
   style: compressed
+
+post_suffix: .html
+

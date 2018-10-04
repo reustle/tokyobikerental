@@ -35,7 +35,7 @@ map.on('load', function(){
             let typeProp = marker.properties.type.toLowerCase()
             
             var el = document.createElement('div')
-            el.className = 'marker-' + typeProp
+            el.className = 'marker-' + typeProp + ' marker-' + marker.properties.slug.toLowerCase()
             
             new mapboxgl.Marker(el)
                 .setLngLat(marker.geometry.coordinates)
